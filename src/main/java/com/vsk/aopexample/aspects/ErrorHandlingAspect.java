@@ -1,4 +1,4 @@
-package com.vsk.aopexample;
+package com.vsk.aopexample.aspects;
 
 import org.aspectj.lang.annotation.AfterThrowing;
 import org.aspectj.lang.annotation.Aspect;
